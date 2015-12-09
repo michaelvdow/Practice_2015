@@ -14,8 +14,14 @@ https://docs.oracle.com/javase/8/docs/api/
 Website to practice the basics of Java. Only look at sections Basics and Printing, Variables, If Statements, While Loops, For Loops, Functions, Nested Loops, Arrays, and ArrayLists. If you want to do a project to incorporate all the basics, you can try the TicTacToe class, or something from Project Euler. 
 http://programmingbydoing.com/
 
-Robotics programming tutorial:
+Robotics Programming Tutorial:
 Look over this github for an example on how to program the robot. If you don't understand something, you can check the WPILIB javadoc. To use that, download this github repository and click the index.html file in the javadoc folder.
+
+Github Tutorial:
+Link to download Github Desktop Application:
+https://desktop.github.com/
+Tutorial on how to use Github:
+https://guides.github.com/activities/hello-world/
 
 =============
 
