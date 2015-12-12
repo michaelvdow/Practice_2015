@@ -20,7 +20,6 @@ Look over this github: https://github.com/Titan2022RoboticsTeam/2022-frc-2015 fo
 ===============
 Github
 
-Easier
 Desktop Github Tutorial:
 Link to download Github Desktop Application:
 https://desktop.github.com/
