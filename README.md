@@ -17,11 +17,17 @@ http://programmingbydoing.com/
 Robotics Programming Tutorial:
 Look over this github: https://github.com/Titan2022RoboticsTeam/2022-frc-2015 for an example on how to program the robot. If you don't understand something, you can check the WPILIB javadoc. To use that, download this github repository and click the index.html file in the javadoc folder.
 
-Github Tutorial:
+Desktop Github Tutorial:
 Link to download Github Desktop Application:
 https://desktop.github.com/
 Tutorial on how to use Github:
 https://guides.github.com/activities/hello-world/
+
+Command Line Github Tutorial
+Link to download GitBash:
+https://git-scm.com/downloads
+Tutorial on GitBash:
+https://try.github.io/levels/1/challenges/1
 
 =============
 
