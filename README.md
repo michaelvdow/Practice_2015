@@ -15,7 +15,7 @@ Website to practice the basics of Java. Only look at sections Basics and Printin
 http://programmingbydoing.com/
 
 Robotics Programming Tutorial:
-Look over this github for an example on how to program the robot. If you don't understand something, you can check the WPILIB javadoc. To use that, download this github repository and click the index.html file in the javadoc folder.
+Look over this github: https://github.com/Titan2022RoboticsTeam/2022-frc-2015 for an example on how to program the robot. If you don't understand something, you can check the WPILIB javadoc. To use that, download this github repository and click the index.html file in the javadoc folder.
 
 Github Tutorial:
 Link to download Github Desktop Application:
